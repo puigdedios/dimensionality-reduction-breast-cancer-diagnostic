@@ -77,7 +77,7 @@ To view the analysis and results, open the file dimensionality_reduction_for_bre
    - Feature importance bar plots.
    - PCA variance explained.
 3. **Detailed Code Explanation**:
-   - See [code_explanation.md](./code_explanation.md) for a comprehensive walkthrough.
+   - open the file code_explanation_dimensionality_reduction.md, which is listed in the repository's file list above for a comprehensive walkthrough.
 
 ---
 
