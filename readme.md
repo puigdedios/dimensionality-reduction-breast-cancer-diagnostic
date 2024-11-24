@@ -64,9 +64,8 @@ This project explores dimensionality reduction techniques on the Breast Cancer W
 ---
 
 
-## **How to see results**
-
-    Click on dimensionality_reduction_for_breast_cancer_diagnosis.ipynb
+## **How to See Results**
+To view the analysis and results, open the file dimensionality_reduction_for_breast_cancer_diagnosis.ipynb, which is listed in the repository's file list above.
    
 
 ---
