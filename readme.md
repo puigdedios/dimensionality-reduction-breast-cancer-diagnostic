@@ -63,20 +63,11 @@ This project explores dimensionality reduction techniques on the Breast Cancer W
 
 ---
 
-## **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dimensionality-reduction-breast-cancer.git
-   cd dimensionality-reduction-breast-cancer
-   ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
+
+## **How to see results**
+
+    Click on dimensionality_reduction_for_breast_cancer_diagnosis.ipynb
+   
 
 ---
 
